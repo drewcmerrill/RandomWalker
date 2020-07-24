@@ -5,7 +5,7 @@ let green = 0;
 let blue = 0;
 
 function setup() {
-	createCanvas(100, 100);
+	createCanvas(500, 500);
 	background(51);
 	x = width/2;
 	y = height/2;
